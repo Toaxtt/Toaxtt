@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Toaxtt!
 
-I am a some random code who knows little about python!
+I am a some random coder who knows little about python!
 
 
 #### Current Projects!
