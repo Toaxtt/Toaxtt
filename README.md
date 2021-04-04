@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Toaxtt
-- 👀 I’m some random shit coder, who knows nothing about python! 
+- 👀 I’m some random coder, who knows the bare minimum of python! 
