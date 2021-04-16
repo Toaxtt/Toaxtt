@@ -3,13 +3,13 @@
 I know small python...
 
 
-#### Current Projects!
+### 📋 Current Projects!
 
 Astro discord bot - https://top.gg/bot/814796963437871105 <br/>
 Astro website - https://toaxtt.github.io/Astro/
 
 
-### Astro Organisation:
+### 🚀 Astro Organisation:
 
 Check out astro's organisation [here](https://github.com/Astro-Developer). <br/>
 Most of my projects are now on here.
