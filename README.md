@@ -1,18 +1,18 @@
 ### 👋 Hi, I’m Toaxtt!
 
-I know small python...
+I am currently coding in python and still learning!
+Welcome to my page!
 
 
 ### 📋 Current Projects!
 
 Astro discord bot - https://top.gg/bot/814796963437871105 <br/>
-Astro website - https://toaxtt.github.io/Astro/
 
 
 ### 🚀 Astro Organisation:
 
 Check out astro's organisation [here](https://github.com/Astro-Developer). <br/>
-Most of my projects are now on there.
+Most of my projects are now on there along with several of my friends.
 
 <h2>📈 My stats</h2>
 
