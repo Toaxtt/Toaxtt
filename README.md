@@ -13,3 +13,7 @@ Astro website - https://toaxtt.github.io/Astro/
 
 Check out astro's organisation [here](https://github.com/Astro-Developer). <br/>
 Most of my projects are now on here.
+
+<h2>📈 My stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Toaxtt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212">
