@@ -12,7 +12,7 @@ Astro website - https://toaxtt.github.io/Astro/
 ### 🚀 Astro Organisation:
 
 Check out astro's organisation [here](https://github.com/Astro-Developer). <br/>
-Most of my projects are now on here.
+Most of my projects are now on there.
 
 <h2>📈 My stats</h2>
 
