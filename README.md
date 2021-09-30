@@ -7,6 +7,7 @@ Welcome to my page!
 ### 📋 Current Projects!
 
 Astro discord bot - https://top.gg/bot/814796963437871105 <br/>
+Astro Website - https://astro-bot.xyz
 
 
 ### 🚀 Astro Organisation:
