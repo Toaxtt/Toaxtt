@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi I am Toaxtt
+  Hi I am <strong>Toaxtt</strong>
   <br>
   <br>
   🔬 I am a python developer! 
